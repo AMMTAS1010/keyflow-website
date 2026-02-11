@@ -52,7 +52,7 @@ export default function HomePage() {
           <div className="relative aspect-[4/3] rounded-2xl overflow-hidden bg-[#F8F8F8]">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src="https://images.unsplash.com/photo-1512453979798-5ea266f8880c?w=800&q=80"
+              src="https://images.unsplash.com/photo-1765504033368-eec68680d2ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
               alt="Dubai skyline"
               className="object-cover w-full h-full"
             />
