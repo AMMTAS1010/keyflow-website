@@ -381,7 +381,7 @@ export default function PrivacyPolicyPage() {
             <p className="text-white font-semibold">Data Protection Officer</p>
             <p>Abdallah Al Shaqra (Interim DPO)</p>
             <p className="mt-2"><strong className="text-white">Method 1 &mdash; Email:</strong> <a href="mailto:privacy@keyflowae.com">privacy@keyflowae.com</a></p>
-            <p><strong className="text-white">Method 2 &mdash; Post:</strong> Data Protection Officer, Keyflow Technology Ltd, Level 14, The Gate, Dubai International Financial Centre, P.O. Box 74777, Dubai, United Arab Emirates</p>
+            <p><strong className="text-white">Method 2 &mdash; Post:</strong> Data Protection Officer, Keyflow Technology Ltd, Unit GA-00-SZ-01-FX-07, Level 1, Gate Avenue South, DIFC, P.O. Box 507211, Dubai, United Arab Emirates</p>
             <p><strong className="text-white">Method 3 &mdash; Phone:</strong> +971 56 754 0655</p>
             <p><strong className="text-white">Method 4 &mdash; DPO Direct:</strong> <a href="mailto:privacy@keyflowae.com">privacy@keyflowae.com</a></p>
           </div>
